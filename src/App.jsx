@@ -33,7 +33,7 @@ export default function App() {
         openMenuButtonColor="#ffffff"
         changeMenuColorOnOpen={false}
         colors={["#1f1f1f", "#090909"]}
-        logoText={"Luca Marastoni\nDigital Solutions"}
+        logoText={"7even"}
         accentColor="#ffffff"
         isFixed
       />

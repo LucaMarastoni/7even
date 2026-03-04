@@ -53,7 +53,7 @@ export default function Home() {
 
   useEffect(() => {
     document.body.classList.remove("crm-page");
-    document.title = "Luca Marastoni | Siti Web, CRM e Google Ads";
+    document.title = "7even | Siti Web, CRM e Google Ads";
   }, []);
 
   useEffect(() => {
